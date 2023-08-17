@@ -1,0 +1,36 @@
+organ,x,y
+,0,0
+cardiovascular,0,0
+dermal,0,0
+gastrointestinal,0,0
+"hepatic, pancreatic, biliary",0,0
+lymphatic,0,0
+mammary,0,0
+multiple organs,0,0
+musculoskeletal,0,0.5
+neural,0,0
+reproductive,0,1
+respiratory,0,0
+urinary,0,0
+biliary,0,0
+bladder,0,0
+brain,0,0
+esophagus,0,0
+female reproductive,0,0
+intestine,0,0
+kidney,0,0
+liver,0,0
+lung,0,-0.5
+male reproductive,0,0
+nerve,0,0
+osteochondral,0,0
+pancreas,0,0
+stomach,0,0
+unspecified dermal,0,-0.5
+unspecified lymphatic,0,-0.5
+unspecified mammary,0,-0.5
+unspecified neural,0,0
+vascular,0,-0.5
+large intestine,0,-0.5
+unspecified brain,0,-0.5
+unspecified nerve,0,-0.5

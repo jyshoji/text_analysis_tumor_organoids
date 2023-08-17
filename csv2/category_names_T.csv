@@ -1,0 +1,409 @@
+category_colname,category_renamed,group_name,occurrence,A_filter,B_filter,T_filter,T2_filter
+TF_organ_development,organ development,research interests,58,A,C,C,C
+TF_tumor, ,trend,1967,C,A,A,A
+TF_cancer,cancer,tumor types,1691,C,A,C,C
+TF_lynch_syndrome,Lynch syndrome,tumor types,5,C,A,A,C
+TF_minimal_residual_disease,minimal residual disease,tumor types,3,C,A,C,C
+TF_signet_ring_cell_carcinoma,signet ring cell carcinoma,tumor types,6,C,C,A,C
+TF_small_cell_carcinoma,small cell carcinoma,tumor types,3,C,C,A,C
+TF_squamous_cell_carcinoma,squamous cell carcinoma,tumor types,32,C,C,A,C
+TF_neoplasm,neoplasm,tumor types,91,C,A,C,C
+TF_adenocarcinoma,adenocarcinoma,tumor types,NA,C,A,C,C
+TF_adenoma,adenoma,tumor types,NA,C,A,C,C
+TF_adenomyoepithelioma,adenomyoepithelioma,tumor types,NA,C,C,C,C
+TF_ameloblastoma,ameloblastoma,tumor types,NA,C,C,C,C
+TF_angioma,angioma,tumor types,NA,C,C,C,C
+TF_angiomyolipoma,angiomyolipoma,tumor types,NA,C,C,C,C
+TF_angiosarcoma,angiosarcoma,tumor types,NA,C,C,C,C
+TF_astrocytoma,astrocytoma,tumor types,NA,C,C,C,C
+TF_astroglioma,astroglioma,tumor types,NA,C,C,C,C
+TF_blastoma,blastoma,tumor types,NA,C,C,C,C
+TF_carcinoma,carcinoma,tumor types,NA,C,A,C,C
+TF_carcinosarcoma,carcinosarcoma,tumor types,NA,C,C,C,C
+TF_cholangiocarcinoma,cholangiocarcinoma,tumor types,NA,C,A,C,C
+TF_chondrosarcoma,chondrosarcoma,tumor types,NA,C,C,C,C
+TF_chordoma,chordoma,tumor types,NA,C,C,C,C
+TF_choriocarcinoma,choriocarcinoma,tumor types,NA,C,C,C,C
+TF_choristoma,choristoma,tumor types,NA,C,C,C,C
+TF_craniopharyngioma,craniopharyngioma,tumor types,NA,C,C,C,C
+TF_dermatofibrosarcoma,dermatofibrosarcoma,tumor types,NA,C,C,C,C
+TF_ependymoma,ependymoma,tumor types,NA,C,C,C,C
+TF_fibroadenoma,fibroadenoma,tumor types,NA,C,C,C,C
+TF_fibrosarcoma,fibrosarcoma,tumor types,NA,C,C,C,C
+TF_ganglioneuroma,ganglioneuroma,tumor types,NA,C,C,C,C
+TF_gastrinoma,gastrinoma,tumor types,NA,C,C,C,C
+TF_glioblastoma,glioblastoma,tumor types,NA,C,A,C,C
+TF_glioma,glioma,tumor types,NA,C,A,C,C
+TF_hamartoma,hamartoma,tumor types,NA,C,C,C,C
+TF_hepatoblastoma,hepatoblastoma,tumor types,NA,C,C,C,C
+TF_hepatocarcinoma,hepatocarcinoma,tumor types,NA,C,C,C,C
+TF_hepatoma,hepatoma,tumor types,NA,C,C,C,C
+TF_insulinoma,insulinoma,tumor types,NA,C,C,C,C
+TF_leiomyoma,leiomyoma,tumor types,NA,C,C,C,C
+TF_leiomyosarcoma,leiomyosarcoma,tumor types,NA,C,C,C,C
+TF_lipofibroadenoma,lipofibroadenoma,tumor types,NA,C,C,C,C
+TF_liposarcoma,liposarcoma,tumor types,NA,C,C,C,C
+TF_lymphoma,lymphoma,tumor types,NA,C,A,C,C
+TF_medulloblastoma,medulloblastoma,tumor types,NA,C,C,C,C
+TF_melanoma,melanoma,tumor types,NA,C,A,C,C
+TF_meningioma,meningioma,tumor types,NA,C,C,C,C
+TF_mesothelioma,mesothelioma,tumor types,NA,C,C,C,C
+TF_microadenoma,microadenoma,tumor types,NA,C,C,C,C
+TF_myeloma,myeloma,tumor types,NA,C,C,C,C
+TF_myoepithelioma,myoepithelioma,tumor types,NA,C,C,C,C
+TF_myoma,myoma,tumor types,NA,C,C,C,C
+TF_myxofibrosarcoma,myxofibrosarcoma,tumor types,NA,C,C,C,C
+TF_nephroblastoma,nephroblastoma,tumor types,NA,C,C,C,C
+TF_nephroma,nephroma,tumor types,NA,C,C,C,C
+TF_neuroblastoma,neuroblastoma,tumor types,NA,C,A,C,C
+TF_neurofibroma,neurofibroma,tumor types,NA,C,C,C,C
+TF_oligodendroglioma,oligodendroglioma,tumor types,NA,C,C,C,C
+TF_oncocytoma,oncocytoma,tumor types,NA,C,C,C,C
+TF_osteosarcoma,osteosarcoma,tumor types,NA,C,C,C,C
+TF_papilloma,papilloma,tumor types,NA,C,C,C,C
+TF_paraganglioma,paraganglioma,tumor types,NA,C,C,C,C
+TF_perineurioma,perineurioma,tumor types,NA,C,C,C,C
+TF_pheochromocytoma,pheochromocytoma,tumor types,NA,C,C,C,C
+TF_plasmacytoma,plasmacytoma,tumor types,NA,C,C,C,C
+TF_porocarcinoma,porocarcinoma,tumor types,NA,C,C,C,C
+TF_prolactinoma,prolactinoma,tumor types,NA,C,C,C,C
+TF_pseudomyxoma,pseudomyxoma,tumor types,NA,C,C,C,C
+TF_retinoblastoma,retinoblastoma,tumor types,NA,C,A,C,C
+TF_retinoma,retinoma,tumor types,NA,C,C,C,C
+TF_rhabdomyosarcoma,rhabdomyosarcoma,tumor types,NA,C,C,C,C
+TF_sarcoma,sarcoma,tumor types,NA,C,A,C,C
+TF_schwannoma,schwannoma,tumor types,NA,C,C,C,C
+TF_sialolipoma,sialolipoma,tumor types,NA,C,C,C,C
+TF_syringocystadenoma,syringocystadenoma,tumor types,NA,C,C,C,C
+TF_teratoma,teratoma,tumor types,NA,C,A,C,C
+TF_thymolipoma,thymolipoma,tumor types,NA,C,C,C,C
+TF_thymoma,thymoma,tumor types,NA,C,C,C,C
+TF_thyroblastoma,thyroblastoma,tumor types,NA,C,C,C,C
+TF_trichoadenoma,trichoadenoma,tumor types,NA,C,C,C,C
+TF_leukemia,leukemia,tumor types,13,C,A,C,C
+TF_disease,disease,research interests,497,A,A,C,C
+TF_electrophysiology,electrophysiology,research interests,1,C,C,C,C
+TF_mechanobiology,mechanobiology,research interests,9,C,A,C,C
+TF_ethics,ethics,research interests,11,C,C,C,C
+TF_microfluidics,microfluidics,model / source,191,C,C,C,C
+TF_organoid,organoids,model / source,1734,C,C,C,C
+TF_organ_on_chip,organ-on-chip,model / source,270,C,C,C,C
+TF_patient_derived,patient-derived material,model / source,758,C,A,C,A
+TF_patient_derived_organoid,patient-derived organoid,model / source,540,C,A,A,C
+TF_patient_derived_tumor_organoid,patient-derived tumor organoid,model / source,168,C,A,C,C
+TF_patient_derived_xenograft,patient-derived xenograft,model / source,173,C,A,A,A
+TF_grafted_organoid,(xeno)grafted organoid,model / source,5,C,C,C,C
+TF_xenograft,xenograft,model / source,384,C,C,C,C
+TF_biobanking,biobank,model / source,45,C,A,A,A
+TF_gemm,GEMM,model / source,27,C,C,A,C
+TF_assembloids,assembloid,model / source,2,C,C,A,C
+TF_precision_medicine,personalized medicine,therapy,258,A,A,A,A
+TF_drug_therapy,drug therapy,therapy,57,C,A,C,C
+TF_chemotherapy,chemotherapy,therapy,330,C,C,A,A
+TF_chemoresistance,dash chemoresistance,therapy,97,C,C,A,A
+TF_targeted_therapy,targeted therapy,therapy,99,C,A,A,A
+TF_hormone_therapy,hormone therapy,therapy,3,C,C,C,C
+TF_immunotherapy,immunotherapy,therapy,123,C,C,A,A
+TF_adoptive_cell_therapy,dash adoptive cell therapy,therapy,5,C,C,A,A
+TF_immune_checkpoint_blockade,dash immune checkpoint,therapy,38,C,C,A,A
+TF_monoclonal_antibody,dash monoclonal antibody,therapy,44,C,C,A,A
+TF_oncolytic_virus,dash oncolytic virus,therapy,5,C,C,A,A
+TF_radiotherapy,radiotherapy,therapy,41,C,C,A,A
+TF_radioresistance,dash radioresistance,therapy,12,C,C,A,A
+TF_neoadjuvant_therapy,neoadjuvant therapy,therapy,27,C,C,A,A
+TF_gene_therapy,gene therapy,therapy,4,C,A,C,C
+TF_photodynamic_therapy,photodynamic therapy,therapy,8,C,A,A,A
+TF_photothermal_therapy,photothermal therapy,therapy,4,C,A,A,A
+TF_replacement_therapy,replacement therapy,therapy,NA,C,C,C,C
+TF_combination_therapy,combination therapy,therapy,47,C,C,C,C
+TF_systemic_therapy,systemic therapy,therapy,7,C,C,C,C
+TF_drug_development,drug development,pharmacology,282,A,A,A,A
+TF_high_throughput_screening,high-throughput screening,pharmacology,76,C,C,C,C
+TF_drug_testing,drug testing,pharmacology,190,C,C,A,A
+TF_drug_resistance,drug resistance,pharmacology,91,C,C,C,C
+TF_drug_delivery,drug delivery,pharmacology,50,C,A,A,A
+TF_pharmacokinetics,pharmaco-kinetics/dynamics,pharmacology,21,A,A,C,C
+TF_pharmacogenomics,pharmacogenomics,pharmacology,7,C,A,C,C
+TF_toxicology,toxicology,pharmacology,4,A,A,C,C
+TF_tumorigenesis,tumorigenesis,physiology,195,C,C,A,A
+TF_cancer_stem_cell,cancer stem cell,physiology,181,C,C,A,A
+TF_tumor_heterogeneity,tumor heterogeneity,physiology,97,C,A,A,A
+TF_intra_tumor_heterogeneity,dash intra tumor heterogeneity,physiology,31,C,C,C,C
+TF_tumor_microenvironment,tumor microenvironment,physiology,234,C,A,A,A
+TF_hypoxia,dash hypoxia,physiology,44,C,A,A,A
+TF_angiogenesis,dash angiogenesis,physiology,46,C,C,A,A
+TF_lymphangiogenesis,dash lymphangiogenesis,physiology,3,C,C,C,C
+TF_tumor_vessel,dash tumor vessel,physiology,7,C,C,C,C
+TF_cancer_associated_fibroblast,dash CAF,physiology,56,C,C,A,A
+TF_tumor_stroma_interactions,dash tumor-stroma interactions,physiology,9,C,C,C,C
+TF_metastasis,metastasis,physiology,432,C,A,A,A
+TF_emt,dash EMT,physiology,49,C,C,A,A
+TF_intra_extravasation,dash intra/extravasation,physiology,17,A,A,A,A
+TF_circulating_tumor_cell,dash circulating tumor cell,physiology,31,C,A,A,A
+TF_invasion,dash invasion,physiology,160,C,C,C,C
+TF_met,dash MET,physiology,3,C,C,A,A
+TF_microsatellite_instability,microsatellite instability,physiology,17,C,C,A,A
+TF_immune_cells,immune cells,immune cells,190,C,C,A,A
+TF_immune_cells_key,immune cells (key),immune cells,93,C,C,C,C
+TF_lymphatic,lymphatic,immune cells,6,C,C,C,C
+TF_primary_lymphoid_organs,primary lymphoid organs,immune cells,3,C,C,C,C
+TF_secondary_lymphoid_organs,secondary lymphoid organs,immune cells,6,C,C,C,C
+TF_resident_immune_cells,resident immune cells,immune cells,1,C,C,C,C
+TF_dendritic_cell,dendritic cell,immune cells,10,C,C,A,A
+TF_eosinophil,eosinophil,immune cells,9,C,C,A,A
+TF_lymphocyte,lymphocyte,immune cells,43,C,C,A,A
+TF_NK_cell,dash natural killer cell,immune cells,11,C,C,A,A
+TF_B_cell,dash B cell,immune cells,17,C,C,A,A
+TF_T_cell,dash T cell,immune cells,92,C,C,A,A
+TF_tumor_infiltrating_lymphocytes,dash TIL,immune cells,9,C,C,A,A
+TF_macrophage,macrophages,immune cells,46,C,C,A,A
+TF_tumor_associated_macrophage,dash TAM,immune cells,11,C,C,A,A
+TF_mast_cell,mast cell,immune cells,1,C,C,A,A
+TF_MDSC,MDSC,immune cells,7,C,C,A,A
+TF_neutrophil,neutrophil,immune cells,6,C,C,A,A
+TF_apoptosis,apoptosis,cellular process,192,C,C,A,A
+TF_ferroptosis,ferroptosis,cellular process,12,C,C,C,C
+TF_necroptosis,necroptosis,cellular process,2,C,C,C,C
+TF_autophagy,autophagy,cellular process,36,C,C,A,A
+TF_cell_cycle_arrest,cell-cycle arrest,cellular process,24,C,C,C,C
+TF_extracellular_vesicles,extracellular vesicles,cellular process,32,C,C,A,A
+TF_ER_stress,ER stress,cellular process,15,C,C,A,A
+TF_reactive_oxigen_species,reactive oxigen species,cellular process,39,C,C,A,A
+TF_redox,redox,cellular process,16,C,C,C,C
+TF_human,human,major research organism,NA,A,A,C,C
+TF_mouse,mouse,major research organism,NA,A,A,C,C
+TF_stem_cell,stem cell,cell source,NA,A,A,C,C
+TF_pluripotent_stem_cell,pluripotent stem cell,cell source,NA,C,C,C,C
+TF_induced_pluripotent_stem_cell,induced pluripotent stem cell,cell source,NA,A,C,C,C
+TF_embryonic_stem_cell,embryonic stem cell,cell source,NA,A,C,C,C
+TF_adult_cell,adult cell,cell source,NA,A,C,C,C
+TF_adult_stem_cell,adult stem cell,cell source,NA,C,C,C,C
+TF_progenitor_cell,progenitor cell,cell source,NA,C,C,C,C
+TF_tissue,tissue,cell source,NA,C,C,C,C
+TF_tumor_cell,tumor cell,cell source,NA,C,C,C,C
+TF_epilepsy,epilepsy,other disease,NA,A,C,C,C
+TF_guillain_barre_syndrome,Guillain-Barre syndrome,other disease,NA,C,C,C,C
+TF_hypertonia,hypertonia,other disease,NA,C,C,C,C
+TF_leigh_syndrome,Leigh syndrome,other disease,NA,C,C,C,C
+TF_traumatic_brain_injury,traumatic brain injury,other disease,NA,A,C,C,C
+TF_neurodegenerative_disorder,neurodegenerative disorder,other disease,2,A,A,C,C
+TF_alzheimers_disease,Alzheimer's disease,other disease,NA,A,C,C,C
+TF_huntingtons_disease,Huntington's disease,other disease,NA,C,C,C,C
+TF_parkinsons_disease,Parkinson's disease,other disease,NA,A,C,C,C
+TF_motor_neuron_disease,motor neuron disease,other disease,1,A,C,C,C
+TF_mental_disorder,mental disorder,other disease,NA,A,C,C,C
+TF_attentione_deficit,attentione deficit,other disease,NA,C,C,C,C
+TF_autism_spectrum,autism spectrum,other disease,NA,A,C,C,C
+TF_bipolar_disorders,bipolar disorders,other disease,NA,C,C,C,C
+TF_schizophrenia,schizophrenia,other disease,NA,A,C,C,C
+TF_amaurosis,amaurosis,other disease,NA,C,C,C,C
+TF_glaucoma,glaucoma,other disease,NA,C,C,C,C
+TF_macular_degeneration,macular degeneration,other disease,NA,A,C,C,C
+TF_retinal_degenerative_disease,retinal degenerative disease,other disease,NA,A,C,C,C
+TF_retinal_dystrophy,retinal dystrophy,other disease,NA,A,C,C,C
+TF_retinitis_pigmentosa,retinitis pigmentosa,other disease,NA,A,C,C,C
+TF_stargardt_disease,stargardt disease,other disease,NA,C,C,C,C
+TF_acute_respiratory_distress_syndrome,acute respiratory distress syndrome,other disease,NA,C,C,C,C
+TF_chronic_obstructive_pulmonary_disease,chronic obstructive pulmonary disease,other disease,NA,A,C,C,C
+TF_pulmonary_hypertension,pulmonary hypertension,other disease,NA,C,C,C,C
+TF_emphysema,emphysema,other disease,NA,A,C,C,C
+TF_asthma,asthma,other disease,NA,C,C,C,C
+TF_aneurysm,aneurysm,other disease,NA,C,C,C,C
+TF_arrhythmia,arrhythmia,other disease,NA,A,C,C,C
+TF_atherosclerosis,atherosclerosis,other disease,NA,A,C,C,C
+TF_endocarditis,endocarditis,other disease,NA,C,C,C,C
+TF_hemolytic_uremic_syndrome,hemolytic uremic syndrome,other disease,NA,C,C,C,C
+TF_hypoplastic_left_heart_syndrome,hypoplastic left heart syndrome,other disease,NA,C,C,C,C
+TF_sickle_cell_disease,sickle cell disease,other disease,NA,A,C,C,C
+TF_thrombosis,thrombosis,other disease,NA,A,C,C,C
+TF_heart_failure,heart failure,other disease,1,A,C,C,C
+TF_gastroesophageal_reflux_disease,gastroesophageal reflux disease,other disease,NA,C,C,C,C
+TF_gastroenteritis,gastroenteritis,other disease,1,C,C,C,C
+TF_gastritis,gastritis,other disease,1,A,C,C,C
+TF_enterocolitis,enterocolitis,other disease,17,A,A,C,C
+TF_enteritis,enteritis,other disease,NA,C,C,C,C
+TF_colitis,colitis,other disease,17,A,A,C,C
+TF_inflammatory_bowel_disease,inflammatory bowel disease,other disease,6,A,A,C,C
+TF_ulcerative_colitis,ulcerative colitis,other disease,4,A,A,C,C
+TF_crohns_disease,Crohn's disease,other disease,2,A,C,C,C
+TF_coeliac_disease,coeliac disease,other disease,NA,C,C,C,C
+TF_microvillous_inclusion_disease,microvillous inclusion disease,other disease,NA,C,A,C,C
+TF_irritable_bowel_syndrome,irritable bowel syndrome,other disease,NA,C,A,C,C
+TF_short_bowel_syndrome,short bowel syndrome,other disease,NA,A,A,C,C
+TF_diarrhea,diarrhea,other disease,2,A,C,C,C
+TF_barretts_esophagus,Barrett's esophagus,other disease,4,A,A,C,C
+TF_cholestasis,cholestasis,other disease,NA,A,A,C,C
+TF_cirrhosis,cirrhosis,other disease,2,A,A,C,C
+TF_hepatotoxicity,hepatotoxicity,other disease,1,A,C,C,C
+TF_fatty_liver_disease,fatty liver disease,other disease,2,A,A,C,C
+TF_hepatitis,hepatitis,other disease,3,A,A,C,C
+TF_acute_liver_failure,acute liver failure,other disease,1,C,C,C,C
+TF_cholangitis,cholangitis,other disease,NA,A,C,C,C
+TF_chronic_kidney_disease,chronic kidney disease,other disease,NA,A,C,C,C
+TF_end_stage_renal_disease,end-stage renal disease,other disease,1,A,C,C,C
+TF_nephrotoxicity,nephrotoxicity,other disease,1,A,C,C,C
+TF_polycystic_kidney_disease,polycystic kidney disease,other disease,NA,A,C,C,C
+TF_acute_kidney_injury,acute kidney injury,other disease,NA,A,C,C,C
+TF_fibrosis,fibrosis,other disease,15,A,A,C,C
+TF_cystic_fibrosis,cystic fibrosis,other disease,2,A,A,C,C
+TF_idiopathic_pulmonary_fibrosis,idiopathic pulmonary fibrosis,other disease,NA,A,C,C,C
+TF_alagille_syndrome,Alagille syndrome,other disease,NA,C,C,C,C
+TF_alport_syndrome,Alport syndrome,other disease,NA,C,C,C,C
+TF_ciliopathy,ciliopathy,other disease,NA,C,C,C,C
+TF_Friedreichs_ataxia,Friedreich's ataxia,other disease,NA,C,C,C,C
+TF_fragile_X_syndrome,fragile X syndrome,other disease,NA,C,C,C,C
+TF_hermansky_pudlak_syndrome,Hermansky-Pudlak syndrome,other disease,NA,C,C,C,C
+TF_hirschsprung_disease,Hirschsprung's disease,other disease,NA,C,C,C,C
+TF_lysosomal_storage_disease,lysosomal storage disease,other disease,NA,C,C,C,C
+TF_microcephaly,microcephaly,other disease,NA,A,C,C,C
+TF_niemann_pick_disease,Niemann-Pick disease,other disease,NA,C,C,C,C
+TF_Nijmegen_breakage_syndrome,Nijmegen breakage syndrome,other disease,NA,C,C,C,C
+TF_progeria,progeria,other disease,NA,C,C,C,C
+TF_down_syndrome,Down syndrome,other disease,NA,A,C,C,C
+TF_rett_syndrome,Rett syndrome,other disease,NA,C,C,C,C
+TF_wilson_disease,Wilson's disease,other disease,NA,C,C,C,C
+TF_arthritis,arthritis,other disease,NA,C,C,C,C
+TF_osteoarthritis,osteoarthritis,other disease,NA,A,C,C,C
+TF_muscular_dystrophy,muscular dystrophy,other disease,NA,C,C,C,C
+TF_atresia,atresia,other disease,NA,C,C,C,C
+TF_callus,callus,other disease,NA,C,C,C,C
+TF_dystrophy,dystrophy,other disease,NA,A,C,C,C
+TF_endometriosis,endometriosis,other disease,1,A,A,C,C
+TF_graft_versus_host_disease,graft-versus-host disease,other disease,NA,C,C,C,C
+TF_helminthiasis,helminthiasis,other disease,NA,C,A,C,C
+TF_ischemia,ischemia,other disease,5,A,A,C,C
+TF_reperfusion_injury,reperfusion injury,other disease,NA,C,C,C,C
+TF_injury,injury,other disease,18,A,A,C,C
+TF_radiation_injury,radiation injury,other disease,NA,A,C,C,C
+TF_refractory_disease,refractory disease,other disease,4,C,A,C,C
+TF_obesity,obesity,other disease,4,A,A,C,C
+TF_polyposis,polyposis,other disease,16,C,C,C,C
+TF_pre_eclampsia,pre-eclampsia,other disease,NA,C,C,C,C
+TF_prion,prion,other disease,NA,C,C,C,C
+TF_psoriasis,psoriasis,other disease,NA,C,C,C,C
+TF_sclerosis,sclerosis,other disease,2,A,C,C,C
+TF_thyroid_associated_orbitopathy,thyroid-associated orbitopathy,other disease,NA,C,C,C,C
+TF_ulcer,ulcer,other disease,NA,A,C,C,C
+TF_sepsis,sepsis,other disease,NA,A,C,C,C
+TF_diabetes,diabetes,other disease,3,A,A,C,C
+TF_coronavirus,coronavirus,other disease,3,A,A,C,C
+TF_Zika_virus,Zika virus,other disease,NA,A,C,C,C
+TF_astrovirus,astrovirus,other disease,NA,C,C,C,C
+TF_enterovirus,enterovirus,other disease,NA,A,C,C,C
+TF_flavivirus,flavivirus,other disease,NA,A,C,C,C
+TF_norovirus,norovirus,other disease,NA,A,C,C,C
+TF_rotavirus,rotavirus,other disease,NA,A,C,C,C
+TF_dengue,dengue,other disease,NA,C,C,C,C
+TF_influenza,influenza,other disease,NA,A,C,C,C
+TF_HIV,HIV,other disease,NA,A,C,C,C
+TF_HPV,HPV,other disease,6,C,A,C,C
+TF_host_microbe_interactions,host-microbe interactions,symbionts/pathogens,22,A,A,C,C
+TF_probiotics,probiotics,symbionts/pathogens,2,C,C,C,C
+TF_Chlamydia,Chlamydia,symbionts/pathogens,NA,A,C,C,C
+TF_Citrobacter,Citrobacter,symbionts/pathogens,NA,C,C,C,C
+TF_Escherichia_coli,Escherichia coli,symbionts/pathogens,3,A,A,C,C
+TF_lactobacillus,Lactobacillus,symbionts/pathogens,2,A,C,C,C
+TF_Helicobacter_pylori,Helicobacter pylori,symbionts/pathogens,5,A,A,C,C
+TF_Clostridioides_difficile,Clostridioides difficile,symbionts/pathogens,NA,A,C,C,C
+TF_Salmonella,Salmonella,symbionts/pathogens,8,A,A,C,C
+TF_Staphylococcus,Staphylococcus,symbionts/pathogens,NA,A,C,C,C
+TF_tuberculosis,tuberculosis,symbionts/pathogens,NA,C,C,C,C
+TF_Cryptosporidium,Cryptosporidium,symbionts/pathogens,NA,A,C,C,C
+TF_malaria,malaria,symbionts/pathogens,NA,A,C,C,C
+TF_Toxoplasma,Toxoplasma,symbionts/pathogens,NA,C,C,C,C
+TF_nematode,nematode,symbionts/pathogens,NA,A,C,C,C
+TF_ThreeD_printing,3D printing,techniques,11,C,C,C,C
+TF_ThreeD_bioprinting,3D bioprinting,techniques,18,C,C,C,C
+TF_self_organization,self organization,techniques,10,C,C,C,C
+TF_vascularization,vascularization,techniques,46,C,C,C,C
+TF_multi_structure_organoid,multi-structure organoid,techniques,1,C,C,C,C
+TF_gene_editing,gene editing,techniques,83,C,C,A,A
+TF_lentivirus,lentivirus,techniques,22,C,C,C,C
+TF_tissue_engineering,tissue engineering,techniques,36,C,C,C,C
+TF_cardiac_tissue_engineering,cardiac tissue engineering,techniques,NA,C,C,C,C
+TF_engineered_heart_tissue,engineered heart tissue,techniques,NA,C,C,C,C
+TF_microelectrode_array,microelectrode array,techniques,1,C,C,C,C
+TF_genomics,genomics,techniques,144,C,C,A,A
+TF_epigenetics,epigenetics,techniques,83,C,C,A,A
+TF_exome_sequencing,exome sequencing,techniques,44,C,C,C,C
+TF_transcriptomics,transcriptomics,techniques,170,C,C,A,A
+TF_sc_RNA_seq,scRNA seq,techniques,32,C,C,A,A
+TF_proteomics,proteomics,techniques,53,C,C,A,A
+TF_metabolomics,metabolomics,techniques,14,C,C,A,A
+TF_next_generation_sequencing,next-generation sequencing,techniques,32,C,C,C,C
+TF_mass_spectrometry,mass spectrometry,techniques,30,C,C,A,A
+TF_immunohistochemistry,immunohistochemistry,techniques,204,C,C,C,C
+TF_FACS,FACS,techniques,5,C,C,C,C
+TF_cell_lineage,cell lineage,techniques,12,C,C,C,C
+TF_whole_mount_techniques,whole-mount techniques,techniques,1,C,C,C,C
+TF_TEER,TEER,techniques,3,C,C,C,C
+TF_acoustofluidics,acoustofluidics,techniques,1,C,C,C,C
+TF_optogenetics,optogenetics,techniques,NA,C,C,C,C
+TF_high_content_analysis,high-content analysis,techniques,12,C,C,A,A
+TF_machine_learning,machine learning,techniques,17,C,C,C,C
+TF_cancer_genome_atlas,cancer genome atlas,techniques,22,C,C,C,C
+TF_gene_set_enrichment_analysis,gene set enrichment analysis,techniques,9,C,C,C,C
+TF_atomic_force_microscopy,atomic force microscopy,techniques,3,C,C,C,C
+TF_expansion_microscopy,expansion microscopy,techniques,1,C,C,C,C
+TF_fluorescence_lifetime_imaging_microscopy,fluorescence-lifetime imaging microscopy,techniques,2,C,C,C,C
+TF_intravital_microscopy,intravital microscopy,techniques,3,C,C,C,C
+TF_light_sheet_microscopy,light-sheet microscopy,techniques,2,C,C,C,C
+TF_MRI,MRI,techniques,NA,C,C,C,C
+TF_MS_imaging,Mass spectrometry-imaging,techniques,3,C,C,C,C
+TF_quantitative_phase_imaging,quantitative phase imaging,techniques,NA,C,C,C,C
+TF_optical_coherence_tomography,optical coherence tomography,techniques,1,C,C,C,C
+TF_optical_metabolic_imaging,optical metabolic imaging,techniques,10,C,C,A,A
+TF_Raman_spectroscopy,Raman spectroscopy,techniques,5,C,C,A,A
+TF_scanning_electron_microscopy,scanning electron microscopy,techniques,5,C,C,C,C
+TF_transmission_electron_microscopy,transmission electron microscopy,techniques,7,C,C,C,C
+TF_clinical_study,clinical study,clinical interests,102,A,A,C,C
+TF_preclinical_model,preclinical model,clinical interests,363,A,A,C,C
+TF_homeostasis,homeostasis,clinical interests,59,C,A,C,C
+TF_regeneration,regeneration,clinical interests,37,C,A,C,C
+TF_transplantation,transplantation,clinical interests,51,C,A,C,C
+TF_monkey,monkey,minor research organism,NA,A,C,C,C
+TF_ape,ape,minor research organism,NA,A,C,C,C
+TF_dog,dog,minor research organism,NA,A,A,C,C
+TF_cat,cat,minor research organism,NA,A,A,C,C
+TF_cow,cattle,minor research organism,NA,A,C,C,C
+TF_pig,pig,minor research organism,NA,A,A,C,C
+TF_horse,horse,minor research organism,NA,A,C,C,C
+TF_sheep,sheep,minor research organism,NA,A,C,C,C
+TF_rabbit,rabbit,minor research organism,NA,A,C,C,C
+TF_bird,bird,minor research organism,NA,A,C,C,C
+TF_fish,fish,minor research organism,NA,A,A,C,C
+TF_snake,snake,minor research organism,NA,A,C,C,C
+TF_frog,frog,minor research organism,NA,A,C,C,C
+TF_fly,fly,minor research organism,NA,A,A,C,C
+TF_barrier_function,barrier function,physiology,4,C,C,C,C
+TF_epithelial_barrier,epithelial barrier,physiology,2,C,C,C,C
+TF_stem_cell_niche,stem-cell niche,physiology,13,C,C,C,C
+TF_chemotaxis,chemotaxis,physiology,12,C,C,C,C
+TF_crypt_villus_axis,crypt-villus axis,physiology,NA,C,C,C,C
+TF_gut_brain_axis,gut-brain axis,physiology,NA,C,C,C,C
+TF_gut_liver_axis,gut-liver axis,physiology,1,C,C,C,C
+TF_innate_immune_response,innate immune response,physiology,2,C,C,C,C
+TF_quiescence,quiescence,physiology,11,C,C,C,C
+TF_senescence,senescence,physiology,20,C,C,C,C
+TF_atezolizumab,atezolizumab,monoclonal antibody,1,C,C,C,C
+TF_avelumab,avelumab,monoclonal antibody,NA,C,C,C,C
+TF_bevacizumab,bevacizumab,monoclonal antibody,2,C,C,C,C
+TF_cetuximab,cetuximab,monoclonal antibody,10,C,C,C,C
+TF_cibisatamab,cibisatamab,monoclonal antibody,2,C,C,C,C
+TF_cirmtuzumab,cirmtuzumab,monoclonal antibody,NA,C,C,C,C
+TF_daratumumab,daratumumab,monoclonal antibody,1,C,C,C,C
+TF_dinutuximab,dinutuximab,monoclonal antibody,2,C,C,C,C
+TF_durvalumab,durvalumab,monoclonal antibody,NA,C,C,C,C
+TF_infliximab,infliximab,monoclonal antibody,1,C,C,C,C
+TF_ipilimumab,ipilimumab,monoclonal antibody,2,C,C,C,C
+TF_nivolumab,nivolumab,monoclonal antibody,9,C,C,C,C
+TF_panitumumab,panitumumab,monoclonal antibody,1,C,C,C,C
+TF_pembrolizumab,pembrolizumab,monoclonal antibody,6,C,C,C,C
+TF_pertuzumab,pertuzumab,monoclonal antibody,1,C,C,C,C
+TF_ramucirumab,ramucirumab,monoclonal antibody,1,C,C,C,C
+TF_rituximab,rituximab,monoclonal antibody,1,C,C,C,C
+TF_rosmantuzumab,rosmantuzumab,monoclonal antibody,NA,C,C,C,C
+TF_tocilizumab,tocilizumab,monoclonal antibody,1,C,C,C,C
+TF_toripalimab,toripalimab,monoclonal antibody,1,C,C,C,C
+TF_trastuzumab,trastuzumab,monoclonal antibody,5,C,C,C,C
+TF_vantictumab,vantictumab,monoclonal antibody,1,C,C,C,C

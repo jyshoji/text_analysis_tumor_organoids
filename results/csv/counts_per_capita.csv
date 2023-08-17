@@ -1,0 +1,205 @@
+"type","country","tumor_organoid","ToC"
+"Research article","Netherlands",7.20133087199226,0.520720312108114
+"Research article","Switzerland",3.92606742755881,0.762429424913398
+"Research article","Singapore",3.81919598165871,0.28578671585126
+"Research article","Luxembourg",3.65542300033653,NA
+"Research article","Denmark",2.21391665466246,0.010015209096534
+"Research article","Finland",2.08790733328212,0.0457727680542697
+"Research article","USA",1.95762910716615,0.296415312416249
+"Research article","Norway",1.89727145783971,NA
+"Research article","Germany",1.69535550944604,0.0471609469286831
+"Research article","South Korea",1.51729272402392,0.511403726449189
+"Research article","Australia",1.47544329339587,0.386890461417962
+"Research article","UK",1.43317705786316,0.129175753409437
+"Research article","Japan",1.42147159728753,0.039568563982159
+"Research article","Sweden",1.32510668811598,0.0999245951996182
+"Research article","Italy",1.26587188539367,0.282054687808537
+"Research article","Canada",1.22748043088717,0.290670179071938
+"Research article","Austria",1.09066081699997,NA
+"Research article","Taiwan",0.966629241313935,0.142600579967967
+"Research article","Ireland",0.895198231325139,NA
+"Research article","Spain",0.83686953266396,0.0862758764319445
+"Research article","Qatar",0.83357090104013,NA
+"Research article","Latvia",0.800042668942344,NA
+"Research article","Hungary",0.770558850290105,0.020641965115079
+"Research article","Belgium",0.770021101715791,0.0228061145185249
+"Research article","France",0.584867675556616,0.102907609018806
+"Research article","Portugal",0.526725757587423,0.365672221123269
+"Research article","Israel",0.500528823145078,0.0495301142112342
+"Research article","Croatia",0.441191107378758,NA
+"Research article","Czech Republic",0.431448911261924,0.0105577107538403
+"Research article","Lebanon",0.366788278190643,NA
+"Research article","China",0.260832967106111,0.0236815535775274
+"Research article","Greece",0.222869914372739,NA
+"Research article","Slovakia",0.122278725183151,NA
+"Research article","Poland",0.107087490194642,0.086869322885694
+"Research article","Turkey",0.101639282998559,0.0657937011070875
+"Research article","Thailand",0.100818037641104,0.00435754527790827
+"Research article","Tunisia",0.0851303281476194,NA
+"Research article","Chile",0.0683209494836763,NA
+"Research article","Saudi Arabia",0.0643674121234975,NA
+"Research article","Cyprus",0.0536247516838842,NA
+"Research article","Romania",0.0521207924382737,NA
+"Research article","Slovenia",0.0395136283294381,NA
+"Research article","Colombia",0.0391776624326453,NA
+"Research article","Russia",0.0270011105207033,0.0082486644020371
+"Research article","Algeria",0.0220264317180617,NA
+"Research article","Brazil",0.0212871513913485,0.0069954264321712
+"Research article","United Arab Emirates",0.0205696665674613,NA
+"Research article","Uruguay",0.0165470987103109,NA
+"Research article","Ukraine",0.0161940686826728,NA
+"Research article","Egypt",0.0127991640442671,0.000746844573647759
+"Research article","Vietnam",0.0117635116172141,NA
+"Research article","Lithuania",0.0108420225910237,NA
+"Research article","Mexico",0.0101364900582639,0.0178551555499886
+"Research article","India",0.00814543714269063,0.00484518808446601
+"Research article","Nepal",0.00761231050675456,NA
+"Research article","Sierra Leone",0.00735790992976434,NA
+"Research article","South Africa",0.00722914998814412,NA
+"Research article","Malaysia",0.00707122965884893,0.0214062041295626
+"Research article","Nigeria",0.00473034659249483,NA
+"Research article","Pakistan",0.0044404973357016,0.00466252220248668
+"Research article","Indonesia",0.0040742788117028,NA
+"Research article","Cameroon",0.00342255931784724,NA
+"Research article","Ecuador",0.00174289640045323,NA
+"Research article","Sudan",0.000916088996213804,NA
+"Research article","Iran",0.000345043257755785,0.0553635177963686
+"Research article","Afghanistan",NA,NA
+"Research article","Argentina",NA,NA
+"Research article","Bahrain",NA,NA
+"Research article","Bangladesh",NA,NA
+"Research article","Belarus",NA,NA
+"Research article","Botswana",NA,NA
+"Research article","Bulgaria",NA,NA
+"Research article","Costa Rica",NA,NA
+"Research article","Cuba",NA,0.0223581698317637
+"Research article","Estonia",NA,NA
+"Research article","Ethiopia",NA,NA
+"Research article","Georgia",NA,NA
+"Research article","Ghana",NA,NA
+"Research article","Iceland",NA,NA
+"Research article","Iraq",NA,NA
+"Research article","Jordan",NA,NA
+"Research article","Kazakhstan",NA,NA
+"Research article","Kuwait",NA,NA
+"Research article","Libya",NA,NA
+"Research article","Malawi",NA,NA
+"Research article","Mauritius",NA,NA
+"Research article","Mongolia",NA,NA
+"Research article","Morocco",NA,NA
+"Research article","Mozambique",NA,NA
+"Research article","Namibia",NA,NA
+"Research article","New Zealand",NA,NA
+"Research article","Oman",NA,NA
+"Research article","Palestine",NA,NA
+"Research article","Peru",NA,NA
+"Research article","Philippines",NA,NA
+"Research article","Senegal",NA,NA
+"Research article","Serbia",NA,0.029105527474381
+"Research article","Sri Lanka",NA,NA
+"Research article","Uganda",NA,NA
+"Research article","Uzbekistan",NA,NA
+"Research article","Venezuela",NA,NA
+"Research article","Zimbabwe",NA,NA
+"Review","Netherlands",2.35457694816802,0.54146096131443
+"Review","Singapore",1.45247422123027,0.152804263850178
+"Review","Switzerland",1.39844556482878,0.367094350704735
+"Review","Denmark",1.27580410277714,NA
+"Review","Luxembourg",1.050315357186,NA
+"Review","Ireland",0.99770527786092,0.232797898167548
+"Review","Portugal",0.828805411661514,1.73004265623984
+"Review","Sweden",0.677680100422942,NA
+"Review","Australia",0.65528451422641,0.0898885557833032
+"Review","Italy",0.605238275494715,0.143956727894737
+"Review","Austria",0.582571683666431,0.111359889103368
+"Review","Finland",0.520720622437249,0.165444668371241
+"Review","Slovenia",0.474163539953257,NA
+"Review","Germany",0.437287470918093,0.022029314320449
+"Review","UK",0.432361038048465,0.0496909960441893
+"Review","Taiwan",0.37096762701176,0.12834052197117
+"Review","Greece",0.360681714810221,NA
+"Review","USA",0.355407713343347,0.176111045241097
+"Review","France",0.319137431859181,0.123222104995511
+"Review","Lebanon",0.316569233691408,0.147732309055991
+"Review","New Zealand",0.29223041160069,NA
+"Review","Belgium",0.290550764473199,0.0797184054589469
+"Review","Spain",0.275730509896019,0.0947724507830135
+"Review","South Korea",0.266732592975676,0.0987244417501312
+"Review","Croatia",0.257166656079973,NA
+"Review","Japan",0.245337803828709,0.00819991844405439
+"Review","Czech Republic",0.190038793569125,NA
+"Review","Canada",0.160616993080983,0.214587756885076
+"Review","United Arab Emirates",0.140295674537044,NA
+"Review","Israel",0.118648107641782,NA
+"Review","Romania",0.117271782986116,0.104241584876547
+"Review","Norway",0.0844812024716435,NA
+"Review","China",0.0837523026030016,0.0155250047381578
+"Review","South Africa",0.0683556293323405,NA
+"Review","Iran",0.0644765357449203,0.0359485782687563
+"Review","Chile",0.0609806821837772,NA
+"Review","Hungary",0.0573387919863304,NA
+"Review","Poland",0.0557508657781509,0.0288592716969252
+"Review","Turkey",0.0367843267616548,0.04256205771404
+"Review","Thailand",0.0299581237856194,NA
+"Review","Brazil",0.0279817057286848,0.00485016232630537
+"Review","Russia",0.0259780891912752,0.00220316891080051
+"Review","Colombia",0.0195888312163226,NA
+"Review","Iraq",0.0161848831572823,NA
+"Review","Mexico",0.0158712493777677,0.0171337351237265
+"Review","Malaysia",0.0157998173337248,0.0305802916136608
+"Review","India",0.0106161610010669,0.0051051932446154
+"Review","Nepal",0.00856384932009887,0.0247400091469523
+"Review","Vietnam",0.00571008019490407,NA
+"Review","Pakistan",0.0044404973357016,NA
+"Review","Saudi Arabia",0.00408006893749758,0.0301471760381766
+"Review","Indonesia",0.00282537927645722,NA
+"Review","Egypt",0.00194179589148417,NA
+"Review","Afghanistan",NA,NA
+"Review","Algeria",NA,NA
+"Review","Argentina",NA,NA
+"Review","Bahrain",NA,NA
+"Review","Bangladesh",NA,NA
+"Review","Belarus",NA,NA
+"Review","Botswana",NA,NA
+"Review","Bulgaria",NA,NA
+"Review","Cameroon",NA,NA
+"Review","Costa Rica",NA,NA
+"Review","Cuba",NA,NA
+"Review","Cyprus",NA,0.37537326178719
+"Review","Ecuador",NA,NA
+"Review","Estonia",NA,NA
+"Review","Ethiopia",NA,NA
+"Review","Georgia",NA,NA
+"Review","Ghana",NA,NA
+"Review","Iceland",NA,NA
+"Review","Jordan",NA,NA
+"Review","Kazakhstan",NA,NA
+"Review","Kuwait",NA,NA
+"Review","Latvia",NA,NA
+"Review","Libya",NA,0.00798326707221663
+"Review","Lithuania",NA,NA
+"Review","Malawi",NA,NA
+"Review","Mauritius",NA,NA
+"Review","Mongolia",NA,NA
+"Review","Morocco",NA,NA
+"Review","Mozambique",NA,NA
+"Review","Namibia",NA,NA
+"Review","Nigeria",NA,NA
+"Review","Oman",NA,NA
+"Review","Palestine",NA,NA
+"Review","Peru",NA,NA
+"Review","Philippines",NA,NA
+"Review","Qatar",NA,NA
+"Review","Senegal",NA,NA
+"Review","Serbia",NA,NA
+"Review","Sierra Leone",NA,NA
+"Review","Slovakia",NA,0.00733672351098904
+"Review","Sri Lanka",NA,NA
+"Review","Sudan",NA,NA
+"Review","Tunisia",NA,NA
+"Review","Uganda",NA,NA
+"Review","Ukraine",NA,NA
+"Review","Uruguay",NA,NA
+"Review","Uzbekistan",NA,NA
+"Review","Venezuela",NA,NA
+"Review","Zimbabwe",NA,NA

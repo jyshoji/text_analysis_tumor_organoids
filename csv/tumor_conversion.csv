@@ -1,0 +1,15 @@
+to,major_organ,tumor_group,tumor_sub
+diffuse type gastric cancer,gastrointestinal,stomach,diffuse-type gastric
+locally advanced rectal cancer,gastrointestinal,large intestine,locally advanced rectal
+er positive breast cancer,mammary,mammary,ER-positive breast
+triple negative breast cancer,mammary,mammary,triple-negative breast
+high grade serous ovarian cancer,reproductive,ovary,high-grade serous ovarian
+castration resistant prostate cancer,reproductive,prostate,castration-resistant prostate
+metastatic castration resistant prostate cancer,reproductive,prostate,metastatic castration-resistant prostate
+neuroendocrine prostate cancer,reproductive,prostate,neuroendocrine prostate
+bone metastatic prostate cancer,reproductive,prostate,bone-metastatic prostate
+nonsmall cell lung cancer,respiratory,lung,non-small-cell lung
+muscle invasive bladder cancer,urinary,bladder,muscle-invasive bladder
+nonmuscle invasive bladder cancer,urinary,bladder,non-muscle-invasive bladder
+renal cell carcinoma,urinary,kidney,renal cell carcinoma
+clear cell renal cell carcinoma,urinary,kidney,clear cell renal cell carcinoma

@@ -1,0 +1,92 @@
+"corpus_F","tumor_group","n","total_n","percentage"
+"ToC","bladder",4,169,0.0236686390532544
+"ToC","cervix",1,169,0.00591715976331361
+"ToC","dermal",3,169,0.0177514792899408
+"ToC","esophagus",1,169,0.00591715976331361
+"ToC","kidney",2,169,0.0118343195266272
+"ToC","large intestine",28,169,0.165680473372781
+"ToC","liver",11,169,0.0650887573964497
+"ToC","lung",15,169,0.0887573964497041
+"ToC","lymphatic",2,169,0.0118343195266272
+"ToC","mammary",54,169,0.319526627218935
+"ToC","neural",18,169,0.106508875739645
+"ToC","other",8,169,0.0473372781065089
+"ToC","ovary",4,169,0.0236686390532544
+"ToC","pancreas",8,169,0.0473372781065089
+"ToC","prostate",2,169,0.0118343195266272
+"ToC","stomach",1,169,0.00591715976331361
+"ToC","vascular",7,169,0.0414201183431953
+"tumor_organoid","bladder",38,1839,0.020663404023926
+"tumor_organoid","cervix",5,1839,0.00271886895051659
+"tumor_organoid","dermal",15,1839,0.00815660685154975
+"tumor_organoid","esophagus",19,1839,0.010331702011963
+"tumor_organoid","kidney",25,1839,0.0135943447525829
+"tumor_organoid","large intestine",569,1839,0.309407286568787
+"tumor_organoid","liver",135,1839,0.0734094616639478
+"tumor_organoid","lung",89,1839,0.0483958673191952
+"tumor_organoid","lymphatic",9,1839,0.00489396411092985
+"tumor_organoid","mammary",203,1839,0.110386079390973
+"tumor_organoid","neural",110,1839,0.0598151169113649
+"tumor_organoid","oral",18,1839,0.00978792822185971
+"tumor_organoid","other",84,1839,0.0456769983686786
+"tumor_organoid","ovary",71,1839,0.0386079390973355
+"tumor_organoid","pancreas",226,1839,0.12289287656335
+"tumor_organoid","prostate",105,1839,0.0570962479608483
+"tumor_organoid","stomach",90,1839,0.0489396411092985
+"tumor_organoid","thyroid",12,1839,0.0065252854812398
+"tumor_organoid","uterus",15,1839,0.00815660685154975
+"tumor_organoid","vascular",1,1839,0.000543773790103317
+"clinical trial","bladder",1,124,0.00806451612903226
+"clinical trial","cervix",1,124,0.00806451612903226
+"clinical trial","esophagus",3,124,0.0241935483870968
+"clinical trial","kidney",1,124,0.00806451612903226
+"clinical trial","large intestine",20,124,0.161290322580645
+"clinical trial","liver",6,124,0.0483870967741935
+"clinical trial","lung",11,124,0.0887096774193548
+"clinical trial","mammary",20,124,0.161290322580645
+"clinical trial","neural",8,124,0.0645161290322581
+"clinical trial","other",27,124,0.217741935483871
+"clinical trial","ovary",4,124,0.032258064516129
+"clinical trial","pancreas",17,124,0.137096774193548
+"clinical trial","prostate",2,124,0.0161290322580645
+"clinical trial","stomach",3,124,0.0241935483870968
+"incidence","bladder",NA,NA,0.03
+"incidence","cervix",NA,NA,0.031
+"incidence","dermal",NA,NA,0.079
+"incidence","esophagus",NA,NA,0.031
+"incidence","kidney",NA,NA,0.022
+"incidence","large intestine",NA,NA,0.098
+"incidence","liver",NA,NA,0.047
+"incidence","lung",NA,NA,0.114
+"incidence","lymphatic",NA,NA,0.032
+"incidence","mammary",NA,NA,0.117
+"incidence","neural",NA,NA,0.016
+"incidence","oral",NA,NA,0.02
+"incidence","other",NA,NA,0.115
+"incidence","ovary",NA,NA,0.016
+"incidence","pancreas",NA,NA,0.026
+"incidence","prostate",NA,NA,0.073
+"incidence","stomach",NA,NA,0.056
+"incidence","thyroid",NA,NA,0.03
+"incidence","uterus",NA,NA,0.022
+"incidence","vascular",NA,NA,0.025
+"mortality","bladder",NA,NA,0.021
+"mortality","cervix",NA,NA,0.034
+"mortality","dermal",NA,NA,0.012
+"mortality","esophagus",NA,NA,0.055
+"mortality","kidney",NA,NA,0.018
+"mortality","large intestine",NA,NA,0.092
+"mortality","liver",NA,NA,0.083
+"mortality","lung",NA,NA,0.18
+"mortality","lymphatic",NA,NA,0.028
+"mortality","mammary",NA,NA,0.069
+"mortality","neural",NA,NA,0.025
+"mortality","oral",NA,NA,0.018
+"mortality","other",NA,NA,0.137
+"mortality","ovary",NA,NA,0.021
+"mortality","pancreas",NA,NA,0.047
+"mortality","prostate",NA,NA,0.038
+"mortality","stomach",NA,NA,0.077
+"mortality","thyroid",NA,NA,0.004
+"mortality","uterus",NA,NA,0.01
+"mortality","vascular",NA,NA,0.031
