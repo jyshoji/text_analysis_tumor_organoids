@@ -80,6 +80,9 @@ The plotted graphs were saved at *./results/organ_types/*.
 
 Code and instructions on how to identify academic publications on specific topics using *./R_results/research_topics_PT*. Not needed for the analysis, but instead shows how to use the generated data. 
 
+## metastasis_links.R
+Code for identifying combinations of primary and metastatic cancers that are modelled as tumor organoids/ToC.
+
 ## research_topics_tumor.R
 Code used for identifying research topics. The code uses *./R_results/tumor_types_F* as an input, and includes following steps.
 1. Identifying tumor subgroups in publications.

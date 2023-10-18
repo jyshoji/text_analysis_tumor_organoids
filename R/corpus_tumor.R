@@ -89,3 +89,59 @@ tumor_organoid_projection <- left_join(tumor_organoid_extrapolate, tumor_researc
 
 
 
+### If the regression model is made with just the data between 2011 - 2021, 
+### does that accurately predict the publication count in 2022?
+tumor_organoid_modified2 <- tumor_organoid_ratio %>% 
+  filter(corpus_F == "tumor_organoid") %>% 
+  filter(year %in% c(2011:2021)) %>% 
+  select(year, n) 
+
+tumor_research_modified2 <- tumor_publication_count %>% 
+  filter(year %in% c(2011:2021)) %>% 
+  select(year, tumor_all) %>% 
+  rename(n = tumor_all)
+
+tumor_organoid_model2  <- lm(log(n) ~ year, data = tumor_organoid_modified2)
+
+tumor_research_model2 <- lm(log(n) ~ year, data = tumor_research_modified2)
+
+tumor_organoid_extrapolate2 <- data.frame(year = c(2022:2030), n = exp(predict(tumor_organoid_model2, data.frame(year = c(2022:2030))))) %>% 
+  rbind(tumor_organoid_modified2, .)
+### Predicted publication count in 2022: 651
+### The actual publication count in 2022: 542
+
+tumor_research_extrapolate2 <- data.frame(year = c(2022:2030), n = exp(predict(tumor_research_model2, data.frame(year = c(2022:2030))))) %>% 
+  rbind(tumor_research_modified2, .)
+### Predicted publication count in 2022: 176792
+### The actual publication count in 2022: 164877
+
+tumor_organoid_projection2 <- left_join(tumor_organoid_extrapolate2, tumor_research_extrapolate2 %>% rename(n2 = n), by = "year") %>% 
+  mutate(percentage = n*100 / n2)
+
+### How about using the publication counts between 2011 - 2020, and predict 2021?
+tumor_organoid_modified3 <- tumor_organoid_ratio %>% 
+  filter(corpus_F == "tumor_organoid") %>% 
+  filter(year %in% c(2011:2020)) %>% 
+  select(year, n) 
+
+tumor_research_modified3 <- tumor_publication_count %>% 
+  filter(year %in% c(2011:2020)) %>% 
+  select(year, tumor_all) %>% 
+  rename(n = tumor_all)
+
+tumor_organoid_model3  <- lm(log(n) ~ year, data = tumor_organoid_modified3)
+
+tumor_research_model3 <- lm(log(n) ~ year, data = tumor_research_modified3)
+
+tumor_organoid_extrapolate3 <- data.frame(year = c(2021:2030), n = exp(predict(tumor_organoid_model3, data.frame(year = c(2021:2030))))) %>% 
+  rbind(tumor_organoid_modified3, .)
+### Predicted publication count in 2021 and 2022: 428, 645
+### The actual publication count in 2021 and 2022: 439, 542
+
+tumor_research_extrapolate3 <- data.frame(year = c(2021:2030), n = exp(predict(tumor_research_model3, data.frame(year = c(2021:2030))))) %>% 
+  rbind(tumor_research_modified3, .)
+### Predicted publication count in 2021 and 2022: 165795, 174937
+### The actual publication count in 2021 and 2022: 170675, 164877
+
+tumor_organoid_projection3 <- left_join(tumor_organoid_extrapolate3, tumor_research_extrapolate3 %>% rename(n2 = n), by = "year") %>% 
+  mutate(percentage = n*100 / n2)

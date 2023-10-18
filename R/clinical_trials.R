@@ -449,7 +449,7 @@ primary_purpose_bar <- clinical_trials_P %>%
   geom_bar() + 
   scale_x_discrete(limits = factor(c(2008:2023)), breaks = c(2008, 2010, 2012, 2014, 2016, 2018, 2020, 2022), name = "year") + 
   scale_fill_discrete(name = "primary purpose") + 
-  labs(title = "Clinical trials using tumor organoids/ToC") + 
+  #labs(title = "Clinical trials using tumor organoids/ToC") + 
   ylab("the number of clinical trials") + 
   theme(text = element_text(size = 7), 
         plot.title = element_text(size = 8, face = 2), 
